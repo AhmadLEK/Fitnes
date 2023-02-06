@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Joe Vaders Table</string>
+    <string name="height">Введите рост</string>
+    <string name="weight">Введите вес</string>
+    <string name="bodi">Пропорции тела</string>
+
+
+    <string name="neck">Шея</string>
+    <string name="biceps">Бицепс</string>
+    <string name="forearm">Предплечье</string>
+    <string name="breast">Грудь</string>
+    <string name="waist">Талия</string>
+    <string name="pelvis">Таз</string>
+    <string name="hip">Бедро</string>
+    <string name="shin">Голень</string>
+
+</resources>
